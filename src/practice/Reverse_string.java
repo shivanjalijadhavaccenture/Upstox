@@ -11,5 +11,6 @@ public class Reverse_string {
 		}
 		System.out.println(str);
 	}
+	System.out.println("Excellent");
 
 }
