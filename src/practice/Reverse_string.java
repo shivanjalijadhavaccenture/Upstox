@@ -10,7 +10,9 @@ public class Reverse_string {
 			str=str+s.charAt(i);
 		}
 		System.out.println(str);
+		System.out.println("Excellent");
 	}
-	System.out.println("Excellent");
+	
+
 
 }
